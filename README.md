@@ -4,6 +4,11 @@ This project explores the behavior of simple linear classifiers — Perceptron, 
 
 While the GTZAN dataset is originally for music genres, this study uses it as a controlled environment for audio classification experimentation. The long-term vision is to apply these insights toward dialect-aware Text-to-Speech (TTS) systems, where understanding audio classification dynamics is critical.
 
+---
+
+## Notebook
+You can view the Analysis through a Jupyter Notebook here: https://nbviewer.org/github/Marcuss2106/gtzan-classification/blob/master/analysis.ipynb
+
 --- 
 
 ## 📌 Project Goals
